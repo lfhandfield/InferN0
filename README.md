@@ -1,11 +1,11 @@
 # InferN0
 Inference of regulatory Network under L0 regularization
 
-============
-#Installation
+The analysis of the coexpression of genes in single cell can be used to retrieve potential regulatory elements; however, the preriquisite for this is to distinguish between intrinsic variability from either experimental varibility and/or sampling variability. This motivates the use of the L0 regulatization, as opposed to L1 or L2 regulazation, since it is capable of finding the most probable causal associations in highly sparse regulatory networks with the lowest false discovery rate:
+
 ![](man/PrecisionRecallBenchmark.png)
-![](man/PrecisionRecallBenchmark.png)
-![](man/PrecisionRecallBenchmark.png)
+![](man/SingleCellNormalization.png)
+![](man/ExampleOutput.png)
 
 ============
 #Installation
