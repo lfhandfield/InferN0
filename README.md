@@ -3,9 +3,9 @@ Inference of regulatory Network under L0 regularization
 
 ============
 #Installation
-![](txt2img_Screenshot.png)
-![](txt2img_Screenshot.png)
-![](txt2img_Screenshot.png)
+![](man/PrecisionRecallBenchmark.png)
+![](man/PrecisionRecallBenchmark.png)
+![](man/PrecisionRecallBenchmark.png)
 
 ============
 #Installation
