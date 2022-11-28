@@ -22,7 +22,7 @@ Example of regulatory network predicted from Ipsc derived neurons which differen
 ![](man/ExampleOutput.png)
 ============
 
-#Installation
+# Installation
 
 Prerequisites:
 
@@ -30,7 +30,7 @@ Prerequisites:
   
   - Rpackages: Rcpp, RcppArmadillo, ggplot2
 
-Alternatively, use provided script to install prerequisites:
+Alternatively, use the provided script to install prerequisites and the InferN0 library itself.
 
   git clone https://github.com/lfhandfield/InferN0.git
 
