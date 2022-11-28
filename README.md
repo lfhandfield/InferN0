@@ -13,19 +13,27 @@ The is a significant number of confunding factors that hinder the quantification
 
 ![](man/SingleCellNormalization.png)
 
+Example of regulatory network predicted from embryonical single-cell from, Zhong et al. This highlight relations that are shared in the multiple celltypes, at different development stages, which as aggregated as excitatory or inhibitory cell types. This is required as the number of single-cell is low, and as quantification of coexpression is entangled with sampling variability, espetially for lowly expressed genes.
 
+![](man/ExampleOutput2.png)
+
+Example of regulatory network predicted from Ipsc derived neurons which differentiated to two distinct end-points, where one exhibited excitatory neuron markers and the latter inhibitory markers.
 
 ![](man/ExampleOutput.png)
-
 ============
+
 #Installation
 
 Prerequisites:
+
   - gcc
+  
   - Rpackages: Rcpp, RcppArmadillo, ggplot2
 
 Alternatively, use provided script to install prerequisites:
 
   git clone https://github.com/lfhandfield/InferN0.git
+
   cd InferN0
+
   sudo sh install.sh
